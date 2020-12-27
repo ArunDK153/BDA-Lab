@@ -24,7 +24,7 @@ db.Customers.insertMany([{
         custid: 5,
         AccBal: 800,
         AccType: "Current"
-    },
+    }
 ])
 
 db.Customers.find({
